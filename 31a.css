@@ -1,0 +1,33 @@
+h2{
+    color: yellow;
+}
+span{
+    color:navy;
+}
+h1{
+    font-size: 60px;
+}
+div{
+    float: right;
+    clear: both;
+    margin-right: 800px;
+}
+.one{
+  position: relative;
+  left:500px;
+  bottom:200px;
+}
+.two{
+    position: relative;
+    left: 330px;
+    bottom:200px;
+
+}
+.three{
+    margin-left: 1200px;
+    margin-top:-20px;
+    position: relative;
+    top:50px;
+    color:blueviolet;
+
+}
